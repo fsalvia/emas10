@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.line {
+
+  width: 60px;
+  height: 3px;
+  margin: 5px auto;
+  background-color: #CB955D;
+}
+
+.social-icon a {
+  width: 30px;
+  height: 30px;
+
+  display: inline-flex;
+  border-radius: 50%;
+  margin-right: 6px;
+  align-items: center;
+  justify-content: center;
+}
+
+.social-icon button {
+  width: 30px;
+  height: 30px;
+
+  display: inline-flex;
+  border-radius: 50%;
+  margin-right: 6px;
+  align-items: center;
+  justify-content: center;
+
+}
